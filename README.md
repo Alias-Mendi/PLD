@@ -24,22 +24,4 @@ Optimizar los costos de las campañas de marketing, reduciendo gastos y evitando
    pip install -r requirements.txt
    ```
 
-## 📂 Estructura del Proyecto
-
-- `notebooks/` - Contiene los notebooks de análisis y desarrollo.
-- `src/` - Código fuente del proyecto.
-- `data/` - Datos utilizados en el análisis.
-- `README.md` - Documentación del proyecto.
-
 ---
-
-## 🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, haz un fork y envía un pull request.
-
----
-
-## 📜 Licencia
-Este proyecto está bajo la licencia MIT.
-```
-
-Cópialo y pégalo en tu archivo `README.md`. ¡Déjame saber si necesitas ajustes! 🚀
